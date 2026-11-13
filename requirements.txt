@@ -1,0 +1,7 @@
+1. pandas
+2. matplotlib
+3. seaborn
+4. joblib
+5. scikit-learn
+6. streamlit-option-menu
+
